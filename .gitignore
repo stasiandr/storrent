@@ -1,0 +1,6 @@
+.build/
+build/
+.swiftpm/
+target/
+Sources/StorrentEngine/Generated/
+Sources/storrent_engineFFI/*.h
